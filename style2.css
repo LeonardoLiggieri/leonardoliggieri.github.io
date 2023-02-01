@@ -39,6 +39,10 @@ header {
     
     }
 
+.header-icon-menu-ne {
+    display: none;
+}
+
 .header-div-foto {
     width: 70px;
     border-radius: 100px;
@@ -276,6 +280,16 @@ main section div h2 {
     margin: 0% 15% 5% 15%;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
+}
+    main {
+            margin-left: 5%;
+    }
+    
+    main .section-portfolio {
+    display: inline-block;
+    justify-content: center;
+    /* margin-bottom: 10px; */
+    /* margin-left: 10%; */
 }
     
     section div div.section3-contenedorgraficos {

@@ -21,7 +21,13 @@ intro.className = ('header-nav-ne');
     var bodyy = document.getElementById('bodyy');
     bodyy.className = ('body-ne');
     
+    var elboton = document.getElementById('boton');
+    elboton.className = ('header-icon-menu-ne');
+    
+    
     
     
 }
+
+
 
